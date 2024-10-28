@@ -1,4 +1,4 @@
 welcome to git.
 github
 it is a software.
-it is installed in local system.
+it is installed in local system
